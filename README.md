@@ -1,6 +1,6 @@
 # 🎮 Internship Projects – Python Mini Games
 
-Welcome to *Samriddha Das Python Game Collection!*  
+Welcome to *Shouvik biswas Python Game Collection!*  
 This repository contains three fun and educational games built using *Python* and *Pygame, designed for **beginner programmers* and *internship learners* to explore logic, loops, and creativity in coding.
 
 ---
@@ -68,4 +68,5 @@ Your mission: Survive as long as possible while destroying enemy ships and scori
 python snake_game.py
 python brick_breaker_game.py
 python space_shooter_game.py 
+
 
